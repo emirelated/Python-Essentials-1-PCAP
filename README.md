@@ -26,8 +26,7 @@
 │   └── exercises and notes on booleans, conditionals, loops, lists
 ├── module-4/
 │   └── exercises and notes on functions, tuples, dictionaries, exceptions
-├── final-project/
-│   └── course final project
+├── final-project.py
 └── README.html
 </code></pre>
 
